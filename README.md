@@ -1,6 +1,6 @@
 # Olá  👋, sou o Robert Oliveira 
 
--   #### Sou o Robert Oliveira, tenho 25 anos estou por dentro das tecnologias frontend e backend há cerca de 3 mesês.
+-   #### Sou o Robert Oliveira, tenho 25 anos estou por dentro das tecnologias frontend  há cerca de 3 mesês.
     
 -   #### 🚀  Participo do Curso  [ProgramadorBr](https://programadorbr.com)
     
