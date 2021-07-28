@@ -20,4 +20,4 @@
 
 Vamos nos conectar? 
 
-[![Linkdlin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square-border&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-oliveira2020/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square-border&logo=instagram&logoColor=white)](https://www.instagram.com/robert_ttk/)
+[![Linkdlin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square-border&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-oliveira2020/) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square-border&logo=instagram&logoColor=white)](https://www.instagram.com/robert_ttk/) [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square-border&logo=gmail&logoColor=white)](mailto:robertsudoliveira@gmail.com)
