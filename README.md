@@ -20,5 +20,4 @@
 
 Vamos nos conectar? 
 
-![https://www.linkedin.com/in/robert-oliveira2020/](https://img.shields.io/badge/LinkedIn-0077B5?flat-square-border&logo=linkedin&logoColor=white)
-
+[![Linkdlin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square-border&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-oliveira2020/)
