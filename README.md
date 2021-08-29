@@ -1,10 +1,10 @@
 # Olá  👋, sou o Robert Oliveira 
 
--   #### Sou o Robert Oliveira, tenho 25 anos estou por dentro das tecnologias frontend  há cerca de 3 meses.
+-   #### Tenho 25 anos, e sei que a tecnologia pode transformar.
     
--   #### 🚀  Participo do Curso  [ProgramadorBr](https://programadorbr.com)
+-   #### 🚀  Participo do Curso  [ProgramadorBr](https://programadorbr.com) e também do curso da b7web [b7web](https://https://alunos.b7web.com.br)
     
--   #### 👨‍💻  Estou  me dedicando a aprender, e ser um programador cada dia melhor.
+-   #### 👨‍💻  Estou  me dedicando diariamente para ser um programador melhor a cada dia.
     
 -   #### 🖥️  Tenho como objetivo trabalhar como desenvolvedor Full-stack!.
     
