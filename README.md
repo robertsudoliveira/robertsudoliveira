@@ -1,6 +1,6 @@
 # Olá  👋, sou o Robert Oliveira 
 
--   #### Tenho 25 anos, e sei que a tecnologia pode transformar.
+-   #### 🙂 Seja muito bem-vindo sempre ao meu perfil.
     
 -   #### 🚀  Participo dos seguintes cursos: [ProgramadorBr](https://programadorbr.com) e [b7web](https://b7web.com.br/fullstack/)
     
