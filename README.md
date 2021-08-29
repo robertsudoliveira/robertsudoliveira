@@ -10,7 +10,10 @@
     
 -   #### 💎  Estou sempre em busca de aprender novas tecnologias, e ter novas experiências.
 
+
+
 ![Robert Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=robertsudoliveira&theme=dark&title_color=ffffff&border_color=ffffff&show_icons=true&text_color=ffffff&hide_border=false&border_radius=10) [![top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=robertsudoliveira&layout=compact&theme=dark&title_color=ffffff&border_color=ffffff&show_icons=true&text_color=ffffff&border_radius=10)](https://github.com/robertsudoliveira)
+
 
  ### 🛠 Tecnologias
 
