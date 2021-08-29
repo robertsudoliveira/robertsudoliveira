@@ -2,7 +2,7 @@
 
 -   #### Tenho 25 anos, e sei que a tecnologia pode transformar.
     
--   #### 🚀  Participo do Curso  [ProgramadorBr](https://programadorbr.com) e também do curso da b7web [b7web](https://https://alunos.b7web.com.br)
+-   #### 🚀  Participo do Curso  [ProgramadorBr](https://programadorbr.com) e também do curso da [b7web](https://b7web.com.br/fullstack/)
     
 -   #### 👨‍💻  Estou  me dedicando diariamente para ser um programador melhor a cada dia.
     
